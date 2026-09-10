@@ -238,3 +238,6 @@ This repository serves as the official landing page for Teamfight Tactics. The s
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Teamfight Tactics today!**
+
+---
+**Last updated:** 2026-09-10 17:35:37 UTC
