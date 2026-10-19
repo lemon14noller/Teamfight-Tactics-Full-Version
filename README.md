@@ -240,4 +240,4 @@ This repository serves as the official landing page for Teamfight Tactics. The s
 **Get the most recent version of Teamfight Tactics today!**
 
 ---
-**Last updated:** 2026-10-19 12:57:13 UTC
+**Last updated:** 2026-10-19 19:13:33 UTC
